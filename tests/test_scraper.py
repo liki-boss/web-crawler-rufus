@@ -5,7 +5,7 @@ def test_basic_scraping():
     Basic test to verify scraper functionality and content relevance
     """
     # Initialize client
-    client = RufusClient(api_key="your_api_key")
+    client = RufusClient(api_key="5563038c-4fde-409c-942b-a329d8fba091")
     
     # Test URL (using a simple, stable website)
     url = "https://lifesight.io/"  # Replace with your target website
