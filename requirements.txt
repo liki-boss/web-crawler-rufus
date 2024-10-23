@@ -1,0 +1,23 @@
+# Web Scraping
+beautifulsoup4
+scrapy
+requests
+selenium
+
+# NLP and AI-driven content synthesis
+spacy
+scikit-learn
+nltk
+
+# Handling dynamic content (JavaScript-heavy sites)
+webdriver-manager  # For managing ChromeDriver for Selenium
+
+# Miscellaneous utilities
+lxml  # For faster HTML parsing with BeautifulSoup
+tqdm  # For progress bars in crawling tasks
+
+# For testing and environment management
+pytest
+pytest-mock
+responses
+python-dotenv  # For managing environment variables (API keys, etc.)
